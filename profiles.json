@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5769049ade60fd9d7ac892ce"},"identifier":"human_readable_name","name":"Human Readable Name","fields":{"name":{"type":"string"}}}
+{"_id":{"$oid":"576906f59b3e19ee233ae003"},"identifier":"philips_device_information","name":"Philips Device Information","fields":{"modelid":{"type":"string"},"productid":{"type":"string"},"swversion":{"type":"string"},"swconfigid":{"type":"string"}}}
+{"_id":{"$oid":"5769072d9b3e19ee233ae004"},"identifier":"power_state","name":"Power State","fields":{"on":{"type":"boolean"}}}
+{"_id":{"$oid":"57693ab89b3e19ee233ae005"},"identifier":"hue_saturation_colors","name":"Hue Saturation Colors","fields":{"hue":{"type":"circle"},"saturation":{"type":"percent"}}}
+{"_id":{"$oid":"577287e3e2697a388aef17c9"},"identifier":"uint_test","name":"uint conversion test","fields":{"8":{"type":"uint8"},"16":{"type":"uint16"},"32":{"type":"uint32"},"64":{"type":"uint64"}}}
